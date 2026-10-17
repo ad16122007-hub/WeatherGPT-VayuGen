@@ -1,0 +1,11 @@
+{
+  "name": "WeatherGPT - AgriTech Weather AI",
+  "description": "Hyper-local precision agricultural weather intelligence, AI agronomic advisory, smart irrigation scheduling, and pest-disease microclimate forecasting.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
